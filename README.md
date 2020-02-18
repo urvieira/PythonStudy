@@ -1,4 +1,4 @@
-# hello-world
+# Python-Study
 My first repository on GitHub
 
-Editing file directly in GitHub for the very first time
+Trying GitHub for the first time
